@@ -1,0 +1,122 @@
+body{
+    background-image: url("../img/sky.jpg");
+    width: 100%;
+    height: 100%;
+
+}
+.sty{
+    background-image: url("../img/sky.jpg");
+    width: 100%;
+    height: 100%;
+
+
+}
+#img-brand{
+    width: 100px;
+    border-radius: 10%;
+}
+#nav li a{
+    color: wheat;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 20px
+}
+#nav li a:hover{
+    font-size: 25px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+.jumbotron{
+    background-image: url("../img/sky.jpg");
+    width: 100%;
+    height: 100%;
+}
+.jumbotron .img-fluid{
+    align-items: center;
+    justify-content: center;
+width: 50%;
+    height: 40%;
+
+border-radius: 10%;
+}
+.jumbotron h2{
+  
+color: #a71d2a;
+    text-align: center;
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.jumbotron span{
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.jumbotron span p{
+    text-align: center;
+    color: red;
+    font-size: 5vh;
+    transition: 2s;
+}
+.container #about p{
+    text-align: center;
+    justify-content: center;
+    transition: 2s;
+}
+.container #about h2{
+    text-align: center;
+    font-size: 30px;
+    color: #dc3545;
+    transition: 2s;
+}
+/* for button of card*/
+.btn-style{
+    background-color: #007bff;
+    color: white;
+}
+p{
+    transition: 2s;
+    color: palegreen;
+    font-size: 20px;
+}
+#project{
+    background-image: url("../img/sky.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+#foot{
+    list-style: none;
+}
+#foot li {
+    display: inline-block;
+    padding-left: 20px;
+
+}
+#foot li a{
+    font-size: 30px;
+}
+#foot li a:hover{
+    font-size: 35px;
+}
+.fa-facebook{
+    color: #007bff;
+
+}
+.fa-instagram{
+    color: orange;
+
+}
+.fa-twitter{
+    color: #17a2b8;
+
+}
+.fa-github{
+    color: black;
+
+}
+.fa-linkedin{
+    color: skyblue;
+}
+
+
+
+
